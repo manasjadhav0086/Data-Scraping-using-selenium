@@ -24,13 +24,7 @@ A Python project using Selenium to scrape restaurant data from the Zomato websit
    ```
 3. **Set Up ChromeDriver**:  
    [Download ChromeDriver](https://chromedriver.chromium.org/downloads) and add it to your system path.
-
-## Usage
-Run the script to start scraping:  
-```bash
-python ZomatoScraper.py
-```
-The scraped data will be saved to a `Zomato_restaurant_Pune.csv` file in the project directory.
+   
 
 ## Example Output
 | Restaurant Name | Discount | Famous Dishes    | Location | Rating | Cost for Two |
