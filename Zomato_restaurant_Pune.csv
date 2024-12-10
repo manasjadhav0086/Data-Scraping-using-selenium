@@ -1,0 +1,502 @@
+Restaurant,Rating,Famous_for,Location,Cost,Distance
+Neighbourhud | All Day Bistro,4.6,"North Indian, Biryani, Fast Food, Pizza, Continental, Beverages","Baner, Pune","₹1,500 for two",691 m
+Amora Skyline Lounge & Kitchen,3.8,"North Indian, Chinese, Bar Food, Oriental","Hinjawadi, Pune","₹1,000 for two",4.8 km
+Bombay Bistro,4.3,"Bar Food, Pizza, Asian, North Indian, Oriental","Mahalunge, Pune","₹1,000 for two",3.8 km
+The Corner Lounge,4.6,"North Indian, Oriental, Continental, Mexican, Seafood, Kebab, Biryani, Desserts","Baner, Pune","₹2,000 for two",678 m
+Prem's,4.4,"North Indian, Chinese, Continental, Pizza, Pasta, Sichuan","Baner, Pune","₹1,600 for two",610 m
+Agent Jack's,4.3,"Chinese, Salad, North Indian, BBQ, Continental, Pizza, Oriental, Fast Food","Hinjawadi, Pune","₹1,800 for two",4.9 km
+Talli,4.3,"Fast Food, Salad, Chinese, Pizza, Pasta, Italian, North Indian, Kebab","Baner, Pune","₹1,900 for two",2 km
+Ava Artisan Kitchen & Bar,4.5,"North Indian, Chinese, Continental, Sushi, Asian, Italian","Balewadi, Pune","₹1,200 for two",1.7 km
+Ishaara,4.5,"North Indian, Mughlai, Kebab, Biryani, Desserts, Beverages","Wakad, Pune","₹1,400 for two",4.9 km
+The Revolution Bar,4.5,"Biryani, Pizza, Continental, Chinese, North Indian, Oriental, Asian, Pasta","Baner, Pune","₹1,800 for two",400 m
+YOLO Gastro Lounge,4.2,"Finger Food, North Indian, Continental, Desserts, Bar Food, Beverages","Spot 18 Mall, Pimple Saudagar, Pune","₹1,900 for two",3.9 km
+Cherie,4.6,"Asian, Modern Indian, Chinese, Italian, Salad, Continental, Desserts","White Square, Hinjawadi, Pune","₹1,900 for two",4.4 km
+Yeti - The Himalayan Kitchen,4.1,"Nepalese, Tibetan, Chinese, Momos, Beverages, Asian, Shake, Healthy Food","Aundh, Pune","₹1,400 for two",1.2 km
+Yakii,4.4,"Asian, Thai, Sushi, Desserts, Beverages","Balewadi High Street — Phase 2, Pune","₹1,500 for two",1.4 km
+Thikana,4.2,"North Indian, Italian, Pasta, Continental, Pizza, Biryani, Beverages","White Square, Hinjawadi, Pune","₹1,800 for two",4.4 km
+FML - Food Music Love,4.2,"Chinese, Continental, North Indian, Oriental, Italian, Desserts","Hinjawadi, Pune","₹1,900 for two",4.8 km
+Punnet By Eterium - Indian Kitchen & Spirits,4.3,"Biryani, Kebab, North Indian, Desserts","Balewadi High Street, Baner, Pune","₹1,400 for two",1.4 km
+Eight,4.5,"Asian, Bar Food, Japanese, Sushi","Wakad, Pune","₹2,000 for two",4.9 km
+Aloraa Garden Kitchen & Bar,4.4,"Maharashtrian, Continental, Chinese, Kebab, Biryani, Fast Food, Desserts, Bar Food","Baner, Pune","₹1,500 for two",1.6 km
+Publiq,4.1,"Asian, North Indian, Italian, Chinese, Biryani, Kebab, Salad, Beverages","White Square, Hinjawadi, Pune","₹2,000 for two",4.5 km
+Spice Factory,4.1,"North Indian, Mughlai, Chinese, Biryani, Pizza, Pasta, Beverages","White Square, Hinjawadi, Pune","₹1,200 for two",4.4 km
+The Community Table,4.6,"Asian, North Indian, Biryani, Continental, Thai, Desserts, Beverages","Hinjawadi, Pune","₹1,600 for two",4.8 km
+The Gulmohar Bar & Curry House,4.5,"North Indian, South Indian, Biryani, Seafood","Baner, Pune","₹2,100 for two",1.3 km
+Copa Cabana,4.4,"North Indian, Continental, Asian, Italian, Salad, Biryani, Sandwich, Desserts","Pimple Nilakh, Pune","₹1,900 for two",3.2 km
+Teera,4.1,"North Indian, Continental, Mughlai, Chinese, Fast Food, Desserts, Beverages, Shake","Wakad, Pune","₹1,800 for two",3.3 km
+Terrace By Bailamos,4.3,Asian,"Balewadi, Pune","₹3,000 for two",1.7 km
+Akasa Poolbar & Kitchen,4.2,"Continental, North Indian, Bar Food, Asian, Italian","Wakad, Pune","₹2,000 for two",3.8 km
+1BHK Superbar,4.4,"North Indian, Asian, Italian, European, Continental, Mediterranean, American, Seafood","Baner, Pune","₹2,500 for two",1.1 km
+Sukhi Da Dhaba,4.0,"North Indian, Asian, Mughlai, Fast Food, Biryani, Beverages","Wakad, Pune","₹2,000 for two",3.3 km
+Hoomans- All Day Bar,4.5,"Oriental, Chinese, Continental, Pasta, Seafood, North Indian, Desserts, Beverages","Balewadi, Pune","₹1,200 for two",1.5 km
+Sky Stories,4.2,"Italian, Continental, North Indian, Mughlai, Biryani, Oriental, Bar Food, Desserts","Baner, Pune","₹1,800 for two",1.4 km
+Joey's Bistro & Bar,4.5,"European, Oriental, North Indian, Pasta, Pizza, Desserts, Beverages","Baner, Pune","₹1,000 for two",1.8 km
+Gong,4.7,"Chinese, Sushi, Asian, Japanese, Thai, Salad, Desserts, Beverages","Balewadi High Street, Baner, Pune","₹2,000 for two",1.3 km
+Mekong Folks,4.6,"Asian, Cantonese, Sushi, Japanese, Chinese, Salad, Seafood, Beverages","Balewadi, Pune","₹2,000 for two",1.2 km
+Nativ,4.4,"North Indian, Mughlai, Continental, Chinese, Asian, Biryani, Bar Food","Prime Rose Mall, Pune","₹1,800 for two",699 m
+Bao Story,4.2,Asian,"Hinjawadi, Pune","₹1,200 for two",4.9 km
+AB's - Absolute Barbecues,4.5,"North Indian, BBQ, Biryani","Baner, Pune","₹1,650 for two",938 m
+Local Gastro Bar,4.1,"Bar Food, Pizza, Beverages","Hinjawadi, Pune","₹2,300 for two",4.9 km
+Barrio Roof Top Kitchen And Bar,4.4,"North Indian, Oriental, Chinese, Biryani, Pizza, Pasta, Seafood, Desserts","Pimple Saudagar, Pune","₹1,800 for two",4.1 km
+Tales & Spirits - Hunters Bistro,4.3,"Italian, Continental, North Indian, Biryani, Pizza, Fast Food, Desserts, Beverages","Baner, Pune","₹1,450 for two",1.4 km
+Makaira Kitchen & Bar,4.3,"Chinese, Kebab, Italian, Continental, Biryani, Maharashtrian, North Indian","Wakad, Pune","₹1,500 for two",4.1 km
+We Idliwale Barroom,4.4,"South Indian, Biryani, Desserts","Balewadi High Street, Baner, Pune","₹1,500 for two",865 m
+Sreca Rooftop Lounge,4.3,"North Indian, Continental, Asian, Bar Food, Chinese, Pizza, Seafood","Pimple Nilakh, Pune","₹1,000 for two",2.4 km
+Merchant & Me,4.5,"Middle Eastern, Mediterranean, Lebanese, Kebab","Phoenix Mall of the Millennium, Pune","₹1,200 for two",4.9 km
+The Flour Works,4.4,"European, Italian, Healthy Food, Salad, Sandwich, Pizza, Desserts, Beverages","Baner, Pune","₹1,800 for two",1.5 km
+Effingut Bistro,4.4,"Asian, Continental, Finger Food, Beverages, Desserts","Balewadi, Pune","₹1,800 for two",948 m
+Ice N Fire Sky Lounge,4.3,"Bar Food, Continental, North Indian, Pizza, Burger, Pasta, Chinese, Desserts","Baner, Pune","₹1,800 for two",948 m
+Elaichi Pure Veg,4.1,"North Indian, Biryani, Continental, Chinese, Pizza, Salad, Desserts, Beverages","Baner, Pune","₹1,200 for two",2.1 km
+Rangla Punjab,4.2,"North Indian, Kebab, Mughlai, Biryani, Chinese, Desserts","Pimple Nilakh, Pune",₹950 for two,2.6 km
+Tatva The Vegetarian Kitchen,4.0,"North Indian, Chinese, South Indian, Biryani, Street Food, Fast Food, Oriental, Beverages","Baner, Pune","₹1,000 for two",1.6 km
+Toscano,4.5,"Italian, Pizza, Pasta, Continental, Seafood, Steak, Beverages","Wakad, Pune","₹1,800 for two",4.9 km
+L'Apicio,4.4,"European, Mediterranean, Continental, Desserts","Balewadi High Street — Phase 2, Pune","₹1,800 for two",1.4 km
+Angrezi Dhaba,4.3,"Modern Indian, Bar Food, Chinese, Pasta, Seafood, Asian, Desserts, Beverages","Prime Rose Mall, Pune","₹1,000 for two",767 m
+Pune's Royal,4.5,"North Indian, Chinese, Mughlai, Oriental, Continental, Seafood, Japanese, Desserts","Pimple Nilakh, Pune","₹1,300 for two",3.1 km
+Asia Kitchen By Mainland China,4.5,"Asian, Chinese, Sushi, Thai, Japanese, Beverages","Phoenix Mall of the Millennium, Pune","₹1,500 for two",4.9 km
+Soy Affair,4.4,"Asian, Thai, Chinese, Seafood","Baner, Pune","₹1,000 for two",878 m
+"Blu Grass -Alfresco Dining, Bar & Banquets",New,"North Indian, Chinese, Mughlai, Seafood, Biryani, Desserts, Beverages","Hinjawadi, Pune","₹1,500 for two",4.8 km
+Fyole Cafe,4.2,"Pizza, Desserts, Bakery, Sandwich, Salad","Phoenix Mall of the Millennium, Pune",₹600 for two,4.9 km
+Sante Spa Cuisine,4.5,"Cafe, Healthy Food, Mediterranean, Continental, Desserts","Baner, Pune","₹1,200 for two",642 m
+Azzurro,4.2,"Fast Food, Chinese, North Indian, Biryani, Continental, Asian, Desserts, Beverages","Pimple Nilakh, Pune","₹1,200 for two",2.8 km
+Butter - Bar & Kitchen,4.3,"Asian, Italian, Chinese, Sushi, Japanese, Beverages","Balewadi, Pune","₹1,800 for two",1.3 km
+You Mee,4.5,"Asian, Japanese, Sushi, Desserts, Beverages","Phoenix Mall of the Millennium, Pune","₹2,000 for two",4.9 km
+Aromas Cafe & Bistro,4.5,"Cafe, Coffee, Tea, Shake, Lebanese, Italian, Mexican, Desserts","Baner, Pune","₹1,000 for two",2.3 km
+The Barkhana,4.6,"Bar Food, Mughlai, Chinese, North Indian, Fast Food, Desserts, Beverages, Sichuan","Wakad, Pune","₹2,000 for two",4.4 km
+Qala Cafe & Co - Works,4.1,"Cafe, Coffee, Italian, Continental, Pizza, Fast Food, Salad, Beverages","Baner, Pune","₹1,000 for two",397 m
+Caffe Allora,4.4,"Italian, Seafood, Pasta, Pizza, Sandwich, Salad, Desserts","Wakad, Pune","₹1,000 for two",4.9 km
+Pasco - An Epitome Of Wine & Dine,4.4,"North Indian, Italian, Seafood, Chinese, Oriental, Kebab, Biryani, Desserts","Pimple Saudagar, Pune","₹1,700 for two",4.1 km
+Copa Villa,4.3,"North Indian, Asian, Continental, Salad, Seafood, Pasta, Pizza, Oriental","Pimple Nilakh, Pune","₹1,400 for two",3.6 km
+The 3 Musketeers Pub,4.3,"Chinese, Bar Food, Fast Food, Pizza, Continental, North Indian, Mughlai, Biryani","Baner, Pune","₹1,800 for two",888 m
+Mini's Cafe,4.1,"Cafe, Coffee, Tea, Bubble Tea, Street Food, Fast Food, Mexican, Desserts","Baner, Pune",₹700 for two,1.6 km
+Aroma's Hyderabad House,4.3,"Biryani, Kebab, North Indian, Mughlai, Seafood, Chinese, Beverages","Balewadi, Pune","₹1,300 for two",1.7 km
+The Gazebo World Of Veg,3.8,"North Indian, Continental, Mexican, Thai, Oriental, Italian, Desserts, Beverages","Wakad, Pune",₹800 for two,3.7 km
+PizzaExpress,4.2,"Pizza, Italian, Salad, Bakery, Beverages, Coffee, Pasta, Cafe","Phoenix Mall of the Millennium, Pune","₹1,400 for two",4.9 km
+Ek Punjab Dhaba,4.5,"North Indian, Street Food, Desserts, Biryani, Seafood","Pimple Saudagar, Pune","₹1,400 for two",4.7 km
+Baba's,4.5,"North Indian, Chinese, Kebab, Biryani, Beverages","Baner, Pune","₹1,000 for two",2.6 km
+Singh Saab The Paratha House,3.9,"North Indian, Chinese, Street Food, Beverages","Balewadi, Pune",₹500 for two,1.8 km
+Lord Petrick Burger & Coffee,4.2,"Burger, Wraps, Fast Food, Desserts, Beverages, Cafe, Coffee","Balewadi, Pune",₹550 for two,1.3 km
+Dossai Flavours Of South,4.2,"South Indian, Beverages","Baner, Pune",₹300 for two,1.7 km
+Ouza Cocktail Bar & Kitchen,4.3,"Mediterranean, European, Asian, Modern Indian, Desserts","Baner, Pune","₹1,000 for two",2.1 km
+Wynkk Kitchen & Bar,4.6,"North Indian, Continental, Pizza, Kebab, Thai, Bar Food, Asian, Fast Food","Aundh, Pune","₹1,500 for two",3.1 km
+Wings & Co,4.5,"Chinese, Asian, Continental, Oriental, Korean","Aundh, Pune",₹550 for two,2.7 km
+Yolkshire,4.3,"Cafe, Sandwich, Pasta, Salad, Continental, Healthy Food, Desserts, Beverages","Pimple Saudagar, Pune",₹700 for two,4.5 km
+Mr And Mrs Idly,3.8,South Indian,"Pimple Saudagar, Pune",₹350 for two,4.3 km
+Poult,4.2,"North Indian, Burger, Wraps, Fast Food, Shake, Beverages","Wakad, Pune","₹1,000 for two",4.9 km
+24K Kraft Brewzz,4.2,"North Indian, Chinese, Mughlai, Pizza, Italian, Seafood, Beverages, Desserts","Balewadi, Pune","₹2,500 for two",1.2 km
+Hotel Saudagar,3.8,"North Indian, Mughlai, Chinese, Seafood, Kebab, Biryani, Desserts, Beverages","Pimple Saudagar, Pune","₹1,000 for two",4 km
+Moscow - Your Everyday Bar,3.8,"North Indian, Bar Food, Continental, Italian, Pizza, Chinese, Modern Indian, Desserts","Baner, Pune","₹1,500 for two",766 m
+Falahaar,3.8,"Sandwich, Pizza, Street Food, Shake, Beverages, Juices, Desserts","Wakad, Pune",₹450 for two,4.6 km
+Rhythm Rooftop Kitchen & Bar,4.3,"North Indian, Continental, Oriental, Chinese, Fast Food, Biryani","Pimple Saudagar, Pune","₹1,400 for two",4.5 km
+Uncle's Chinese,4.4,"Chinese, Oriental, Seafood, Beverages","Bavdhan, Pune","₹1,200 for two",5 km
+Global Punjab,4.0,"North Indian, Mughlai, Kebab, Seafood, Biryani, Chinese, Desserts, Beverages","Wakad, Pune","₹1,100 for two",4.1 km
+Daily Bites By Nine Square,3.8,"North Indian, Fast Food, Beverages, Italian, Burger, Pizza, French, Desserts","Pimple Saudagar, Pune",₹300 for two,4.3 km
+The Bar Tales,4.2,"North Indian, Continental, Mughlai, Italian, Chinese, Biryani, Desserts, Beverages","Bavdhan, Pune","₹1,800 for two",4.8 km
+Bombay Culture The Cafe,4.1,"Continental, Chinese, Burger, Pizza, Fast Food, Street Food, Beverages","Wakad, Pune",₹450 for two,4.5 km
+Kiro Kitchen And Bar,3.9,"Italian, Seafood, Asian, North Indian, Sushi, Bar Food, Desserts","The Social Street , Pune","₹1,200 for two",4.9 km
+Copper Chimney,4.5,"North Indian, Kebab, Biryani, Mughlai, Desserts, Beverages","Phoenix Mall of the Millennium, Pune","₹1,600 for two",4.9 km
+Martinz Pizza,4.2,"Pizza, Burger, Pasta, Beverages","Baner, Pune",₹400 for two,2.3 km
+Favela,New,"Continental, North Indian, Chinese, Pizza, Fast Food, Biryani, Desserts, Bar Food","Hinjawadi, Pune","₹1,500 for two",4.7 km
+Circuit House,4.5,"North Indian, Italian, Continental, Chinese, Mughlai, Desserts, Beverages","Balewadi, Pune","₹1,800 for two",1.4 km
+Urban Bistro,4.4,Fast Food,"Aundh, Pune",₹350 for two,3.1 km
+I'M Lion,4.1,"Seafood, Maharashtrian","Mahalunge, Pune","₹1,000 for two",1.6 km
+The Boho House,3.8,"Continental, Italian, Chinese, Sushi, Sandwich, Burger, Desserts","Baner, Pune","₹1,400 for two",1.6 km
+Burger Craft,4.5,"Burger, Fast Food, Desserts, Beverages","Aundh, Pune",₹850 for two,3 km
+The Irish House,4.4,"Continental, Mediterranean","Wakad, Pune","₹2,500 for two",4.9 km
+Pind Punjab,3.5,"North Indian, Mughlai, Kebab, Biryani, Chinese, Desserts, Beverages","Baner, Pune","₹1,400 for two",556 m
+Elephant & Co.,4.5,"Continental, Salad, Asian, Italian, Desserts, Beverages","Baner, Pune","₹1,800 for two",512 m
+Hidden Place - The Hang-out,4.4,"Fast Food, Pizza, Continental, Bar Food, Beverages","Balewadi, Pune","₹1,200 for two",1.5 km
+Independence Brewing Company,4.5,"American, Continental, Pizza, Fast Food, Salad, Beverages","Balewadi High Street, Baner, Pune","₹2,500 for two",1.4 km
+The Urban Foundry,4.5,"Bar Food, North Indian, Pizza, Fast Food, Desserts, Beverages","Balewadi High Street, Baner, Pune","₹2,500 for two",1.2 km
+The Soundtrack Cafe,4.3,"Cafe, Coffee, Beverages, Continental, Italian, Fast Food","Pimple Nilakh, Pune",₹850 for two,2.5 km
+Rohi Gourmet Bistro,4.3,"Continental, Oriental, Seafood, Desserts","Hinjawadi, Pune","₹1,300 for two",4.8 km
+Tatini,4.4,"Bar Food, Continental, Asian, Seafood, Mughlai, Chinese, Desserts, Beverages","Balewadi, Pune","₹1,200 for two",3.4 km
+Fatcook,4.3,"Italian, Mexican, Oriental, Pasta, North Indian, Kebab, Desserts, Beverages","Baner, Pune",₹700 for two,1.1 km
+The White House,4.4,"North Indian, Kebab, Mughlai, Thai, Italian, Continental, Desserts, Beverages","Aundh, Pune","₹1,500 for two",2.2 km
+KarolBaug- Dawat-E-Mehfil,4.4,"North Indian, Seafood, Chinese, Mughlai, Kebab","Aundh, Pune","₹1,100 for two",2.5 km
+Thirsty Tiger,3.9,"Continental, Sandwich, Pizza, Bar Food, Oriental, Italian, Modern Australian","Pimpri, Pune","₹1,200 for two",4.8 km
+High Ground Pure Veg,4.3,"North Indian, Chinese, Oriental, Italian, Biryani, Salad, Desserts, Beverages","Wakad, Pune","₹1,200 for two",4.2 km
+Hotel Kanji Family Restaurant And Bar,3.6,"North Indian, Chinese, Fast Food","Mahalunge, Pune","₹1,000 for two",3.3 km
+Sattva,New,"South Indian, North Indian, Kebab, Pizza, Fast Food, Chinese, Desserts, Beverages","Baner, Pune",₹500 for two,884 m
+Bawarchi,New,"North Indian, Biryani","Aundh, Pune","₹1,000 for two",2.9 km
+Bharat Bhavan,4.3,"North Indian, Mughlai, Awadhi, Goan, Lucknowi, Kashmiri, Beverages, Desserts","Balewadi High Street — Phase 2, Pune","₹1,900 for two",1.4 km
+Si Nonna’s - The Original Sourdough Pizza,4.5,"Cafe, Italian, Pizza, Desserts","Phoenix Mall of the Millennium, Pune","₹1,300 for two",4.9 km
+Darshan,4.5,"Continental, North Indian, Chinese, Mexican, Fast Food, Desserts, Juices, Beverages","Baner, Pune",₹950 for two,1.6 km
+THE PLACE BREW - N - BITES,4.2,"Cafe, Coffee, Lebanese, Continental, Italian, Fast Food, Desserts, Beverages","Balewadi, Pune","₹1,300 for two",1.6 km
+Taste Hackers,3.6,"Chinese, Korean, Asian, Japanese, Italian","Aundh, Pune",₹400 for two,2.4 km
+Iya's Korean Kitchen,4.1,"Korean, Chinese, Japanese, Asian, Desserts, Beverages","Pashan, Pune","₹1,200 for two",2.2 km
+Naan Factory,4.2,"North Indian, Chinese, Biryani","Baner, Pune",₹450 for two,696 m
+German Bakery,4.3,"Desserts, Continental, Cafe, Pasta, Pizza, Salad, Sandwich, Coffee","Hinjawadi, Pune",₹600 for two,4.8 km
+The Ruby Hilltop - Sunny's World,4.4,"Bar Food, Chinese, North Indian, Asian, Italian, Mughlai, Beverages, Desserts","Sus, Pune","₹1,600 for two",4.3 km
+Hippie @ Heart,4.3,"Finger Food, Italian, Continental, Fast Food, BBQ, Desserts, Beverages","Balewadi, Pune","₹1,600 for two",1.5 km
+Two Sticks,4.3,"Chinese, Asian, Sushi","Baner, Pune","₹1,000 for two",457 m
+Way Down South,4.0,"South Indian, Sandwich","Baner, Pune",₹450 for two,1.2 km
+Shree Krishna Veg Court,4.0,"North Indian, South Indian, Maharashtrian, Fast Food, Chinese, Desserts, Beverages","Wakad, Pune","₹1,200 for two",4.4 km
+Nakhra Indian Kitchen & Bar,4.2,"North Indian, Bar Food, Seafood, Mughlai, Chinese, Desserts","Ozone Mall, Aundh, Pune","₹1,600 for two",3.2 km
+Circle Of Crust,4.1,"Pizza, Fast Food, Cafe, Desserts, Shake","Hinjawadi, Pune",₹500 for two,4.7 km
+Incognito - Restaurant Bar & Cafe,4.4,"Continental, Asian, Italian, Thai, North Indian, Biryani, Desserts, Beverages","Balewadi High Street, Baner, Pune","₹2,500 for two",1.3 km
+Bird Valley,4.1,"Chinese, Continental, North Indian, Mughlai, Sandwich, Seafood, Kebab, Desserts","Pimple Saudagar, Pune","₹1,200 for two",4.3 km
+Slice Of Soul,3.9,"Pizza, Pasta, Italian, Salad, Fast Food, Beverages","Baner, Pune",₹500 for two,687 m
+The Blue Plate,4.4,"Continental, Pasta, Pizza, Salad, Italian, Desserts, Beverages","Aundh, Pune",₹800 for two,3 km
+Matamaal - The Kashmiri Restaurant,4.7,"Kashmiri, North Indian, Tea","Wakad, Pune","₹1,200 for two",4.8 km
+Swig,4.3,"Continental, Asian, Italian, Japanese, Pizza, Fast Food, Sushi, Beverages","Balewadi High Street, Baner, Pune","₹1,800 for two",1.2 km
+Manbhavan Premium Thali Restaurant,3.8,North Indian,"Phoenix Mall of the Millennium, Pune",₹500 for two,4.9 km
+Demitasse Coffee,3.8,"Cafe, Coffee, Fast Food, Burger, Sandwich, Pasta, Beverages","Aundh, Pune",₹300 for two,3.2 km
+G Sardar G Da Dhaba,-,"North Indian, Biryani, Kebab, Chinese, Mughlai, Street Food, Beverages","Wakad, Pune","₹1,000 for two",4.4 km
+Pie and Pea Cafe & Bakery,3.9,"Cafe, Coffee, Bakery, Pizza, Sandwich, Fast Food, Biryani, Desserts","Baner, Pune",₹900 for two,364 m
+Meltish,4.2,"Modern Indian, Continental, Pizza, Burger, Sandwich, Desserts","Aundh, Pune","₹1,200 for two",2.6 km
+The Burgs,3.9,"Burger, Fast Food","Wakad, Pune",₹400 for two,4.8 km
+Nawab Asia,4.4,"North Indian, Chinese, Mughlai, Biryani, Seafood, Desserts, Beverages","Balewadi High Street, Baner, Pune","₹1,600 for two",1.2 km
+Tim Hortons,4.4,"Cafe, Coffee, Beverages, Desserts, Sandwich, Fast Food","Phoenix Mall of the Millennium, Pune",₹300 for two,4.9 km
+Uptown Tastes,3.8,"Chinese, Sichuan, Desserts, Asian","Pimple Nilakh, Pune",₹500 for two,3.1 km
+The Rustle Nest,4.4,"Continental, North Indian, European, Biryani, Pasta, Sandwich, Desserts, Beverages","Baner, Pune",₹950 for two,923 m
+DVG Benne Dosa,3.2,"South Indian, Beverages","Hinjawadi, Pune",₹300 for two,4.8 km
+K,4.5,"Korean, Japanese","Aundh, Pune","₹1,400 for two",2.4 km
+Gung The Palace,4.1,Korean,"Mahalunge, Pune","₹2,000 for two",2.1 km
+The Chinese Wok,4.1,"Chinese, Asian, Oriental, Seafood, Sichuan","Pimple Nilakh, Pune",₹300 for two,3.1 km
+Aromas Cafe & Bistro,4.3,"Continental, Burger, Sandwich, Pizza, Italian, Arabian, Salad, Desserts","Phoenix Mall of the Millennium, Pune","₹1,000 for two",4.9 km
+Cafe House Of Brown,3.9,"Cafe, Sandwich, Fast Food, Pasta, Shake, Beverages","Bavdhan, Pune",₹350 for two,4.4 km
+Irani Cafe,2.8,"Iranian, Fast Food, Bakery, Desserts, Beverages","Baner, Pune",₹300 for two,1.2 km
+Grove Pizzeria,4.5,Pizza,"Baner, Pune",₹400 for two,449 m
+Urbo,4.3,"North Indian, Mughlai, Asian, Pizza, Italian, Chinese, Biryani, Desserts","Baner, Pune","₹2,000 for two",387 m
+Quench,4.2,"Asian, Kebab, Finger Food, Continental, Thai, Desserts","Aundh, Pune",₹950 for two,2.7 km
+Charcoal The Sizzling Sensation,4.3,"North Indian, Mughlai, BBQ, Italian, Biryani, Kebab, Salad","Sus, Pune","₹1,200 for two",4.5 km
+Chinar,4.3,Kashmiri,"Capital Building, Baner, Pune",₹500 for two,1.8 km
+Buunkerbar,4.2,"Bar Food, Oriental, Italian, North Indian","Pashan, Pune","₹1,200 for two",2.1 km
+Kerala Cafe,4.2,"Kerala, Seafood, Biryani, Beverages","Baner, Pune","₹1,500 for two",469 m
+Hotel Rassa Kitchen And Bar,4.3,"Maharashtrian, North Indian, Mughlai, Seafood, Chinese, Kebab, Biryani, Desserts","Balewadi, Pune","₹1,000 for two",1.5 km
+One China by Malaka Spice,4.5,"Chinese, Seafood, Asian, Tibetan, Desserts, Beverages","Pimple Saudagar, Pune","₹1,200 for two",4.4 km
+Bailamos Alfresco & Dance,New,"Italian, Bar Food, North Indian, Chinese, Japanese, Biryani, Fast Food, Desserts","Baner, Pune","₹2,000 for two",1.7 km
+The Fatayer Factory,-,"Lebanese, Shawarma, Pizza, Fast Food","Bavdhan, Pune",₹600 for two,4.5 km
+Cafe Peter,3.9,"Cafe, Coffee, Continental, Korean, Fast Food, Italian, Desserts, Beverages","Hinjawadi, Pune","₹1,100 for two",4.7 km
+Karolbaug Kebabs & Biryanis,4.1,"Chinese, Seafood, Mughlai, Biryani, Desserts, Beverages","Regent Plaza, Baner, Pune","₹1,100 for two",1.8 km
+Barbeque Ville,4.3,"North Indian, Desserts","Wakad, Pune","₹1,600 for two",3.7 km
+Pop Tate's,4.6,"North Indian, Chinese, Italian, Biryani, Pizza, Pasta, Fast Food, Beverages","Aundh, Pune","₹1,400 for two",2.9 km
+Filament Bar,4.5,"Turkish, Middle Eastern, North Indian, Continental, Asian","Wakad, Pune","₹1,800 for two",3.6 km
+Green Park,3.8,"North Indian, Chinese, Mughlai, Thai, Continental, Mexican, Desserts, Beverages","Hotel Green Park, Baner, Pune","₹1,800 for two",2.8 km
+Prisha Greenfield Multi Cuisine Restaurant,4.4,"North Indian, Oriental, Biryani, Chinese","Lavale, Pune","₹1,000 for two",5 km
+Nation 330,3.8,"North Indian, Chinese, Fast Food, Sichuan, Rolls, Seafood","Aditya Shagun Mall, Bavdhan, Pune","₹2,500 for two",4.5 km
+Cafe Skywalkers,4.0,"Fast Food, Wraps, Burger, Pizza, Pasta, Street Food, Beverages","Hinjawadi, Pune",₹600 for two,4.5 km
+Wasabi 15,2.9,"Asian, Japanese, Korean, Chinese, Desserts, Beverages","Hinjawadi, Pune","₹1,500 for two",4.7 km
+Noodle Plus,4.1,"Chinese, Asian, Indonesian, Korean","Aundh, Pune",₹600 for two,2.4 km
+Why So Cheesy?,3.8,"Pizza, Sandwich, Fast Food","Wakad, Pune",₹400 for two,4.1 km
+Hotel Shivprasad Veg - Nonveg,4.1,"North Indian, Chinese","Pashan, Pune",₹350 for two,3.6 km
+Dinero Fine Dine,3.9,Modern Indian,"Pimpri, Pune","₹2,000 for two",3 km
+La Basil,3.6,"Cafe, Coffee, Pizza, Italian, Fast Food, Desserts, Shake, Beverages","Baner, Pune","₹1,000 for two",685 m
+La Pino'z Pizza,4.0,"Pizza, Pasta, Italian, Fast Food, Desserts","Balewadi, Pune",₹400 for two,1.4 km
+Loco Otro,4.5,"Bar Food, Continental, Italian, Mexican, Salad, Seafood, Desserts, Beverages","Aundh, Pune","₹1,500 for two",3 km
+Zaatar,4.1,"Middle Eastern, Shawarma, Lebanese, North Indian, Beverages","Pashan, Pune",₹600 for two,1.7 km
+Saaki Resto Bar,4.4,"Maharashtrian, Bar Food, North Indian, Biryani, Chinese, Seafood, Kebab, Beverages","Wakad, Pune","₹1,600 for two",4.9 km
+Desi Eats,3.9,"North Indian, Street Food","Wakad, Pune",₹400 for two,4.8 km
+Best Belgian Waffle,3.8,"Waffle, Desserts, Beverages","Wakad, Pune",₹350 for two,4.9 km
+Panch-Sattva,4.3,"South Indian, Beverages, Desserts","Balewadi, Pune","₹1,200 for two",2 km
+Atithi Veg,3.3,"North Indian, Chinese, Continental, South Indian, Fast Food, Biryani, Desserts, Beverages","Baner, Pune","₹1,000 for two",1.2 km
+Buon Cibo- The Italian Cafe,4.6,"Mexican, Italian, Continental, Pizza, Pasta","Baner, Pune",₹850 for two,929 m
+The Urban Belly,3.6,"Sandwich, Pizza, Fast Food, Street Food, Coffee, Beverages","Wakad, Pune",₹250 for two,4.3 km
+Around The Rice,3.5,"North Indian, Chinese, Rolls, Ice Cream, Beverages, Biryani, Seafood, Shake","Pimple Saudagar, Pune",₹350 for two,4.3 km
+Govind Garden,3.1,"North Indian, Chinese, Seafood, Continental, Kebab, Biryani, Mughlai, Desserts","Pimple Saudagar, Pune","₹1,200 for two",4.7 km
+Zillionth Bistro,4.1,Chinese,"Aundh, Pune",₹400 for two,3.1 km
+Eatsome - Wraps & Rolls,3.4,"Wraps, Biryani, North Indian, Street Food","Aundh, Pune",₹400 for two,2.5 km
+Saundarya Garden,3.6,"Chinese, Rolls, Oriental, Seafood, North Indian, Mughlai, Desserts, Beverages","Wakad, Pune","₹1,400 for two",4.5 km
+It's Street Coffee,3.2,"Coffee, Shake, Desserts, Beverages","Bavdhan, Pune",₹350 for two,5 km
+Kiosk Kaffee,3.2,"Cafe, Coffee, Sandwich, Shake, Beverages","Balewadi, Pune",₹300 for two,1.2 km
+Namah - Hotel Ambience Excellency,4.0,"North Indian, Chinese, Continental, South Indian, Shake, Beverages","Hotel Ambience Excellency, Wakad, Pune","₹1,400 for two",4.5 km
+WOW! Momo,4.0,"Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts","Westend Mall, Aundh, Pune",₹400 for two,2.9 km
+Poetry by Love and Cheesecake,4.1,"Bakery, Desserts, Cafe, Continental, Sandwich, Beverages, Finger Food, Coffee","Balewadi High Street, Baner, Pune","₹1,800 for two",1.3 km
+Manali-Family Resto Bar,4.1,"Finger Food, Chinese, Continental, Seafood, Thai, Kebab, Desserts, Beverages","Baner, Pune","₹1,900 for two",1.4 km
+Huber & Holly,4.1,"Desserts, Ice Cream, Shake, Coffee","Balewadi, Pune",₹800 for two,1.4 km
+Iron Bar & Grill,4.5,"Bar Food, Asian, Thai, Pizza, North Indian, BBQ, Kebab","Balewadi High Street, Baner, Pune","₹2,500 for two",1.3 km
+Indian Kitchen Culture,3.9,"North Indian, Chinese, Biryani, Street Food","Baner, Pune","₹1,000 for two",342 m
+Eaggle Fly,New,"North Indian, Chinese, Continental","Regent Plaza, Baner, Pune","₹1,000 for two",1.7 km
+Bahiram Thali,4.1,"Maharashtrian, Seafood, Saoji","Wakad, Pune",₹550 for two,4.9 km
+Nisarga Garden Resto Bar,New,"North Indian, Mughlai, Chinese, Desserts, Beverages","Hinjawadi, Pune","₹1,500 for two",4.8 km
+Opera House,-,"Pizza, Fast Food, Shake, Coffee, Beverages","Wakad, Pune",₹200 for two,4.8 km
+Shivlingam,4.2,"North Indian, Continental, Italian, Chinese, Salad, Fast Food, Ice Cream","Lavale, Pune","₹1,800 for two",4.4 km
+Chafa Cafe And Studio,4.3,"Cafe, Coffee, Salad, Italian, Continental, Sandwich, Desserts, Beverages","Bavdhan, Pune","₹1,400 for two",4.2 km
+Off The Table,4.3,"Pizza, Sandwich, Fast Food, Desserts, Salad","Baner, Pune",₹350 for two,442 m
+Polka Dots,4.4,"Mediterranean, North Indian, Asian, Italian, Biryani, Kebab, Desserts, Beverages","Westend Mall, Aundh, Pune","₹1,800 for two",3 km
+Natraj Veg - Non Veg Restaurant,New,North Indian,"Mahalunge, Pune",₹400 for two,1.7 km
+Street Coffee,-,"Cafe, Coffee, Desserts, Beverages","Sus, Pune",₹300 for two,1.9 km
+Pine & Dine Restro,-,"North Indian, Chinese, Seafood, Biryani, Kebab","Wakad, Pune","₹1,000 for two",4.6 km
+GOODRICH AUTO CAFE,-,"Pizza, Sandwich, Burger, Fast Food","Pimple Saudagar, Pune",₹300 for two,4.7 km
+Dinero Rooftop,3.8,Modern Indian,"Pimple Nilakh, Pune","₹1,500 for two",3 km
+K.K's Cafe,3.5,"Sandwich, Pasta, Burger, Pizza, Street Food, Tea, Coffee, Beverages","Sus, Pune",₹500 for two,1.6 km
+Carbon,-,"Continental, Chinese, BBQ","Baner, Pune","₹1,200 for two",1 km
+Kizoo Kid’s Desserts,-,"Ice Cream, Desserts","Pimple Nilakh, Pune",₹160 for two,1.8 km
+18 Degrees Resto Lounge,3.7,"North Indian, Chinese","Spot 18 Mall, Pimple Saudagar, Pune","₹2,200 for two",3.9 km
+Tea Villa Cafe,4.2,"Cafe, Beverages, North Indian, Continental, Asian, Pizza, Fast Food, Desserts","Wakad, Pune",₹950 for two,4.4 km
+Hotel Varhadi,3.0,"North Indian, Mughlai","Wakad, Pune",₹500 for two,4.2 km
+Buckys,-,"Pizza, Italian, Panini","Bavdhan, Pune",₹900 for two,4.5 km
+Soul Kitchen,-,"North Indian, Mughlai, Seafood, Asian, Italian, Kebab, Biryani, Desserts","Pimple Nilakh, Pune","₹1,600 for two",3 km
+Puneri Cafe,New,"Fast Food, Momos, Shake","Aundh, Pune",₹300 for two,3.1 km
+Golden Wok,-,"North Indian, Chinese, Rolls, Momos, Beverages","Wakad, Pune",₹450 for two,4.5 km
+Fluid Lab,-,"North Indian, Asian, Italian, Mughlai, Biryani, Chinese, Seafood, Desserts","Pimple Nilakh, Pune","₹1,250 for two",3 km
+Fish Express,-,"Seafood, North Indian, Mughlai, Biryani","Sus, Pune",₹800 for two,1.9 km
+Street Plaza,-,"North Indian, Biryani, Chinese, South Indian, Mughlai, Coffee, Desserts, Waffle","Sus, Pune",₹500 for two,1.9 km
+Red Chilli Chinese Fast Food,-,Chinese,"Wakad, Pune",₹300 for two,4.8 km
+The Deck,-,"North Indian, Mughlai, Kebab, Asian, Seafood, Continental, Italian, Desserts","Pimple Nilakh, Pune","₹1,400 for two",3 km
+Feast India Company,4.6,"Chinese, Oriental, North Indian, Seafood, Kebab, Desserts, Beverages","Baner, Pune","₹1,400 for two",1.3 km
+Pizza Hut,4.1,"Pizza, Pasta, Fast Food, Beverages","Bavdhan, Pune",₹200 for two,5 km
+Zeeshan Restaurant - Apna Hyderabadi Food,4.3,"Mughlai, Seafood, Biryani, Mandi, Chinese, Desserts","Baner, Pune","₹1,200 for two",2.7 km
+The Fat Labrador Cafe,4.5,"Cafe, European, Italian","Bavdhan, Pune",₹700 for two,4.3 km
+Ginger & Lemon,4.0,"Fast Food, Pizza, Mexican, Italian, Bubble Tea, Waffle, Beverages","Aundh, Pune","₹1,000 for two",3 km
+Shivneri Vada Pav - Misal House,New,"Maharashtrian, South Indian, Beverages","Baner, Pune",₹200 for two,287 m
+Brewing Bistro,4.5,"Cafe, Continental, Sandwich, Pizza, Pasta, Fast Food, Desserts, Beverages","Laxman Park, Baner, Pune",₹700 for two,2.7 km
+MoMo Cafe by Courtyard By Marriott,4.0,"North Indian, Continental, Thai, Fast Food, Desserts","Courtyard By Marriott, Hinjewadi, Pune","₹3,500 for two",4.9 km
+Dockway Kitchen & Bar,4.2,"North Indian, Mughlai, Seafood, Continental, Chinese, Desserts","Balewadi, Pune","₹1,600 for two",1.6 km
+Fish Curry Rice,4.2,"Seafood, Maharashtrian, North Indian","Pashan, Pune","₹1,400 for two",1.7 km
+Sarjaa,4.0,"Malwani, North Eastern, Kebab, Asian, Thai, Seafood, Desserts, Beverages","Aundh, Pune","₹1,900 for two",3.3 km
+Tokyo Bakery,4.6,"French, Bakery, Desserts","Baner, Pune",₹250 for two,1.4 km
+NIKS Mandarin Kitchen,-,"Chinese, Thai, Seafood, Korean","Bavdhan, Pune",₹350 for two,4.5 km
+Manchow Mania,3.7,"North Indian, Chinese, Kebab, Momos, Street Food","Wakad, Pune",₹450 for two,4.2 km
+Flow,New,"European, Modern Indian, Mediterranean, Bar Food, , Continental, Italian, Desserts","Baner, Pune","₹2,000 for two",1.4 km
+51 Rainbow Ice Creams,3.7,"Ice Cream, Desserts, Juices, Shake","Baner, Pune",₹400 for two,241 m
+Aeka’s Coffee,3.9,"Cafe, Coffee, Fast Food","Aundh, Pune",₹500 for two,2.8 km
+Cafe From The Tree,4.4,"Cafe, Beverages, Desserts, Italian, Fast Food, Pasta, Pizza","Baner, Pune",₹850 for two,700 m
+Cream Stone Ice Cream,4.2,"Ice Cream, Desserts, Beverages, Shake","Baner, Pune",₹400 for two,1.6 km
+Maratha Samrat,4.3,"Maharashtrian, Seafood, Biryani","Baner, Pune","₹1,300 for two",1.3 km
+Upsouth,4.3,"South Indian, Sandwich, Fast Food, Beverages","Baner, Pune",₹300 for two,868 m
+LIIT - Live IIT Today,4.0,"Bar Food, North Indian, Continental, Chinese, Pizza, Salad, Desserts","Balewadi, Pune","₹2,300 for two",1.4 km
+Radha Krishna Pure Veg,3.3,"North Indian, Chinese, Biryani, Fast Food, Desserts","Hinjawadi, Pune",₹600 for two,4.4 km
+Hyderabadi Laziz,3.9,"Biryani, North Indian, Hyderabadi","Baner, Pune",₹300 for two,784 m
+Dumpling Project,4.6,"Asian, Chinese, Momos","Aundh, Pune",₹600 for two,3.1 km
+Desi Aroma,4.1,"North Indian, Seafood, Biryani, Mughlai, Desserts, Beverages","Baner, Pune","₹1,300 for two",1.6 km
+TTF - The Tenth Floor,4.1,"Finger Food, Chinese, Pizza, Italian, North Indian, Oriental, Bar Food, Beverages","Baner, Pune","₹1,800 for two",2.1 km
+The Fish Thali,4.2,"Seafood, Maharashtrian","Baner, Pune","₹1,000 for two",613 m
+Bambir House,2.6,"Biryani, Mughlai, Malwani","Wakad, Pune","₹1,200 for two",4.6 km
+The Orange Art & Book Cafe,3.9,"Coffee, Desserts, Cafe","Aundh, Pune",₹600 for two,2.7 km
+Shahi Bhoj Thali Restaurant,3.9,"Maharashtrian, Rajasthani, Gujarati","Pimple Saudagar, Pune",₹900 for two,4.4 km
+Vilaytea - The Premium Tea Room,New,"Tea, Coffee","Hinjawadi, Pune",₹400 for two,4.9 km
+Rihla Bake House,4.2,"Bakery, Desserts, Beverages","Baner, Pune",₹400 for two,440 m
+Singh Saab Da Dhaba,4.1,"North Indian, Chinese, Mughlai, Desserts, Kebab, Fast Food","Pashan, Pune","₹1,200 for two",1.8 km
+La Bali,4.4,"North Indian, Mughlai, Continental, Seafood, Chinese, Kebab, Biryani, Desserts","Aditya Shagun Mall, Bavdhan, Pune","₹1,700 for two",4.5 km
+Sheetal Dhaba,3.9,"North Indian, Mughlai, Biryani, Kebab, Seafood, Beverages","Balewadi, Pune","₹1,800 for two",2.4 km
+Madrasi Raja,4.0,"South Indian, Street Food, Beverages","Baner, Pune",₹200 for two,511 m
+Naadbramha Idli,-,"South Indian, Beverages","Baner, Pune",₹200 for two,297 m
+Ya Basa Kitchen & Bar,4.4,"Seafood, Mangalorean, Goan, Malwani, Kerala, North Indian","Baner, Pune","₹1,200 for two",2 km
+Delhi Kitchen,4.7,"North Indian, Kebab, Chinese, Biryani, Beverages","Pimple Saudagar, Pune","₹1,000 for two",4.7 km
+Idlicious,4.2,South Indian,"Baner, Pune",₹250 for two,496 m
+Angaar,4.2,"North Indian, Mughlai, Chinese, Seafood, Biryani, Beverages","Baner, Pune","₹1,400 for two",1.7 km
+Yokoso - The Bake House,4.0,"Bakery, Desserts, Japanese, Beverages","Wakad, Pune",₹500 for two,4 km
+Just Grill,-,"North Indian, Mughlai, Arabian, Biryani, Fast Food, Beverages","Pimple Nilakh, Pune",₹600 for two,2.8 km
+Apache High Street,4.3,"Finger Food, Continental, Salad","Balewadi High Street, Baner, Pune","₹1,300 for two",1.2 km
+Lucknow Meri Jaan,4.3,"Lucknowi, Biryani, North Indian, Kebab, Rolls, Awadhi","Pimple Nilakh, Pune",₹600 for two,3.1 km
+Rio Kitchen & Bar,4.0,"Chinese, Continental, Pasta, North Indian, Salad, BBQ, Fast Food, Beverages","Hinjawadi, Pune","₹1,400 for two",4.9 km
+Tossin Pizza,4.6,"Pizza, Italian, Pasta, Shake, Beverages","Baner, Pune","₹1,200 for two",1.4 km
+The Chimbori Seafood Kitchen,3.2,"Seafood, North Indian, Biryani, Mughlai, Chinese, Asian","Balewadi, Pune","₹2,000 for two",1.7 km
+The Prana Cafe,3.7,"Cafe, Coffee, Sandwich, Fast Food, Salad, Street Food, Beverages","Pimple Nilakh, Pune","₹1,100 for two",3.1 km
+Empire Garden Restaurant & Bar,4.1,"North Indian, Chinese, Biryani, Seafood, Italian, Oriental, Desserts, Beverages","Wakad, Pune","₹1,500 for two",4.2 km
+Dorje & The Bell,4.6,"Tibetan, Japanese, Korean, Chinese, Healthy Food","Pimple Nilakh, Pune",₹500 for two,2.9 km
+Barbeque Nation,4.3,"North Indian, Chinese, Salad, Desserts","Aundh, Pune","₹2,050 for two",2.9 km
+Kinki Delivery - The Sushi And Asian Kitchen,3.9,"Asian, Sushi, Desserts","Balewadi High Street, Baner, Pune","₹1,200 for two",1.2 km
+Dwarka Pure Veg Restaurant,3.3,"North Indian, Chinese","Pimple Nilakh, Pune",₹300 for two,2.3 km
+Theobroma,3.1,"Bakery, Desserts","Aundh, Pune",₹500 for two,3.3 km
+Artizen Cafe Art Studio,3.3,"Cafe, Coffee, Fast Food, Pizza","Baner, Pune",₹600 for two,1.7 km
+Olivia's Cafe And Bistro,3.9,"Cafe, Pizza, Pasta, Sandwich, Burger, Bakery, Coffee, Beverages","Pashan, Pune",₹300 for two,1.7 km
+Bhairavee Pure Veg Restaurant,4.1,"North Indian, Chinese, Biryani","Baner, Pune","₹1,600 for two",2.7 km
+Haldiram's Restaurant,3.9,"Mithai, South Indian, North Indian, Healthy Food, Fast Food, Sandwich, Beverages","Pimple Saudagar, Pune",₹500 for two,3.8 km
+Nourishing Farms,3.9,"Sandwich, Salad, Healthy Food, Wraps, Juices","Pimple Saudagar, Pune",₹400 for two,4.4 km
+Cafe Deja Vu,4.0,"Fast Food, Italian, Pizza, Sandwich, Burger, Beverages","Bavdhan, Pune",₹600 for two,4.7 km
+Rahul Restaurant & Bar,4.1,"Seafood, Malwani, North Indian, Chinese, Mughlai, Desserts","Aundh, Pune",₹950 for two,3 km
+Bombay Creamery Cafe,3.8,"Fast Food, Pizza, Burger, Beverages","Baner, Pune",₹750 for two,1.5 km
+Shawarma Republic,4.1,"Lebanese, Healthy Food, Rolls","Wakad, Pune",₹300 for two,4.1 km
+Yana Sizzlers And Wok,3.1,"Chinese, Asian, Jamaican, BBQ, Seafood, Salad, Desserts, Beverages","Baner, Pune","₹1,800 for two",1.2 km
+Biryani By Kilo,4.3,"Biryani, Hyderabadi, Kebab, North Indian, Ice Cream, Desserts","Wakad, Pune",₹600 for two,4.2 km
+Nandu's Paratha,3.2,"North Indian, Desserts, Fast Food, Biryani, Beverages","Balewadi, Pune",₹500 for two,2.3 km
+WOW! China,3.9,"Chinese, Oriental, Asian, Sichuan, Seafood, Momos","Westend Mall, Aundh, Pune",₹600 for two,2.9 km
+Coconut Chutneey - The South Canteen,New,South Indian,"Balewadi, Pune",₹200 for two,1.7 km
+Farmaaish,3.9,"North Indian, Mughlai, Biryani","Baner, Pune","₹1,600 for two",1.7 km
+7th Heaven,4.3,"Bakery, Waffle, Desserts","Baner, Pune",₹400 for two,225 m
+subculture,3.2,"Sandwich, Burger, Fast Food, Ice Cream, Desserts, Beverages, Tibetan","Aundh, Pune",₹400 for two,2.9 km
+Reeth,4.1,"Biryani, Goan, South Indian","Aundh, Pune","₹1,200 for two",1.4 km
+The Boba Way,3.6,"Shake, Bubble Tea, Coffee, Beverages, Momos, Desserts","Aundh, Pune",₹250 for two,2.8 km
+Mumbasa Cafe,New,"Indian, Korean, Japanese","Balewadi, Pune",₹600 for two,2.3 km
+Sanskar Veg Nonveg Family Restraurant,3.5,"North Indian, Mughlai, Biryani, Chinese","Wakad, Pune",₹450 for two,4.5 km
+Third Wave Coffee,3.6,"Cafe, Coffee, Tea, Beverages, Sandwich, Fast Food, Desserts, Pizza","Wakad, Pune",₹500 for two,4.9 km
+Caffee Delicioso,3.7,"Coffee, Shake, Beverages","Baner, Pune",₹300 for two,216 m
+Khatta Meetha Khawab,3.9,Street Food,"Baner, Pune",₹200 for two,274 m
+Copper Chocs,4.0,"Bakery, Fast Food, Sandwich, Desserts","Aundh, Pune",₹450 for two,3.1 km
+Terttulia Bistro,4.2,"Continental, Italian, European, American, Desserts, Beverages, Asian","Balewadi High Street, Baner, Pune","₹2,400 for two",1.2 km
+Sainath Khanaval,3.9,"Maharashtrian, North Indian","Baner, Pune",₹550 for two,1.2 km
+Brewtopia,3.9,"Pizza, Burger, Sandwich, Momos, Fast Food, Chinese, Desserts, Beverages","Aundh, Pune",₹400 for two,3.6 km
+Little Konkan,4.3,"Konkan, Malwani","Aundh, Pune",₹950 for two,990 m
+Cheesiano Pizza,3.9,"Pizza, Pasta, Fast Food","Wakad, Pune",₹500 for two,4.4 km
+The Sizzling Barn,3.9,"Continental, Burger, Salad, Beverages","Hinjawadi, Pune",₹300 for two,4.8 km
+Nik's Desidera,-,"Maharashtrian, Mughlai, North Indian, Kebab, Seafood","Bavdhan, Pune","₹1,000 for two",4.4 km
+Signature Veg - Non veg,3.7,"North Indian, Kebab, Mughlai, Chinese, Malwani, Biryani, Desserts, Beverages","Baner, Pune","₹1,200 for two",636 m
+Rajwada,3.0,"North Indian, Chinese, Mughlai, Desserts, Beverages","Baner, Pune",₹950 for two,2.9 km
+Momo Bae,4.7,"Momos, Tibetan, Nepalese, Chinese, Beverages","Balewadi, Pune",₹300 for two,1.6 km
+Tikka & Curry,4.2,"North Indian, Mughlai, Chinese, Italian, Thai, Seafood, Kebab, Biryani","Baner, Pune","₹1,500 for two",1.4 km
+Lost Recipes,4.4,"North Indian, Fast Food, Street Food","Wakad, Pune",₹400 for two,3.7 km
+Wada By Hotel Gavran Tadka,3.5,"Maharashtrian, North Indian, Mughlai, Chinese, Seafood, Biryani, Beverages","Pashan, Pune",₹850 for two,1.8 km
+Anna,4.3,"South Indian, Beverages","Baner, Pune",₹350 for two,2.7 km
+Shiv Sagar,3.0,"South Indian, Street Food","Pimple Saudagar, Pune",₹300 for two,4.5 km
+Brew Merchant,3.5,"Coffee, Beverages, Chinese, Asian, Salad, Pizza, Italian, Desserts","Baner, Pune",₹600 for two,881 m
+Hotel Khandesh,3.9,"North Indian, South Indian, Chinese, Kebab, Maharashtrian, Biryani, Street Food","Pashan, Pune",₹400 for two,2.2 km
+Hotel Chul Mutton,2.9,"Maharashtrian, Mughlai, North Indian, Biryani","Baner, Pune",₹950 for two,909 m
+Radha Krishna Veg Cuisine,3.1,"North Indian, Chinese, Continental, Maharashtrian, Biryani, South Indian, Desserts, Beverages","Pimple Saudagar, Pune",₹900 for two,4.1 km
+Hotel Neelayam,4.2,"North Indian, Mughlai, Chinese, Sichuan, Biryani, Kebab, Seafood, Desserts","Baner, Pune","₹1,000 for two",1.1 km
+Neopolitan Pizza,3.9,"Pizza, Italian, Fast Food","Pimple Nilakh, Pune",₹500 for two,3.6 km
+Wadeshwar,3.6,"South Indian, Sandwich, Fast Food, Maharashtrian, Street Food, Shake, Juices, Beverages","Baner, Pune",₹500 for two,1.7 km
+Spice Court,4.4,"North Indian, Chinese, Continental, Italian, Bar Food, Oriental, Desserts, Beverages","Baner, Pune","₹1,400 for two",1 km
+Radhika Veg Restaurant,3.1,"North Indian, Chinese, Fast Food","Aundh, Pune",₹950 for two,3.3 km
+Neonn Eatery And Pub,4.2,"North Indian, Continental, Chinese, Thai, Mughlai, Pasta, Fast Food, Desserts","Baner, Pune","₹1,600 for two",2.1 km
+Marrakesh,3.6,"Lebanese, Mughlai, North Indian, Shawarma, Biryani, Rolls, Beverages","Aundh, Pune",₹900 for two,2.8 km
+Byanjan,-,"Bengali, Assamese, North Indian, Rolls","Hinjawadi, Pune",₹350 for two,4.8 km
+Abhiman Pure Veg,4.3,"Maharashtrian, North Indian, Sandwich, Pizza, Chinese, Kebab, Biryani, Shake","Pimple Saudagar, Pune","₹1,100 for two",4.5 km
+Mathurawala,3.5,"Mithai, North Indian, Street Food","Baner, Pune",₹300 for two,557 m
+Kimling Rush,3.9,"Chinese, Asian, Fast Food, Thai, Seafood, Sichuan, Desserts, Beverages","Pimple Saudagar, Pune",₹950 for two,4.4 km
+The Delicious Cafe,-,"Pizza, Sandwich, Burger, Fast Food","Pimple Nilakh, Pune",₹250 for two,2.8 km
+Dimsum Box,-,Chinese,"Pimple Saudagar, Pune",₹300 for two,4.2 km
+Big Bean Cafe,-,"Coffee, Tea, Beverages","Wakad, Pune",₹250 for two,4.6 km
+Venketesh Paratha,-,"North Indian, Street Food, Rolls","Pimple Nilakh, Pune",₹300 for two,3.2 km
+Kawre Icecream,-,"Desserts, Ice Cream, Shake","Aundh, Pune",₹250 for two,4.5 km
+Indian Darbaar Pure Veg,3.9,"North Indian, Chinese, Rajasthani, Gujarati, South Indian, Pizza, Fast Food, Biryani","Baner, Pune",₹450 for two,503 m
+Akshay Pure Veg Family Restaurant,4.0,"South Indian, North Indian, Chinese, Fast Food, Sandwich, Pizza, Beverages","Baner, Pune",₹950 for two,1.1 km
+Tatva The Vegetarian Kitchen,-,"North Indian, Chinese, Oriental, Asian, Biryani, Shake, Beverages","Pimple Saudagar, Pune","₹1,000 for two",4.8 km
+Aha! Baangali,3.6,"Bengali, Seafood, Biryani, Mughlai, Desserts, Beverages","Wakad, Pune",₹850 for two,4.2 km
+Two Good,3.7,"Pizza, Pasta, Sandwich, Burger, Salad, Continental, Desserts, Beverages","Aundh, Pune","₹1,000 for two",2.7 km
+Orange Cafe,3.9,"Burger, Sandwich, Rolls, Fast Food, Sichuan","Pimple Saudagar, Pune",₹200 for two,4.5 km
+Surve's Pure Non-Veg,3.0,"Maharashtrian, Biryani","Baner, Pune","₹1,300 for two",1.4 km
+Super Star Dum Biryani,New,Biryani,"Pimple Nilakh, Pune",₹200 for two,1.7 km
+Fish On Dish,3.9,"Seafood, Biryani, Beverages","Wakad, Pune",₹600 for two,4.1 km
+Shivar Garden,2.8,"Chinese, Street Food, Fast Food, Healthy Food, Continental, Oriental, North Indian, Mughlai","Pimple Saudagar, Pune","₹1,200 for two",4 km
+Pagdandi Books Chai Cafe,4.7,"Cafe, Fast Food, Beverages","Regent Plaza, Baner, Pune",₹500 for two,1.7 km
+Delight Cafe,3.8,"Rolls, Burger, Sandwich, Fast Food, Beverages, Sichuan","Pimple Saudagar, Pune",₹300 for two,4.4 km
+Chaap - E - Mo,3.9,"North Indian, Momos, Rolls","Wakad, Pune",₹300 for two,4.1 km
+Rollsz,3.4,"Rolls, Sandwich, Burger, Fast Food, Chinese, North Indian, Beverages","Pimple Saudagar, Pune",₹300 for two,4.4 km
+Swad Gomantak,4.2,"Chinese, North Indian, Mughlai, Seafood, Konkan, Biryani, Beverages","Wakad, Pune","₹1,200 for two",4.4 km
+The Big Fish,3.2,"Seafood, North Indian, Biryani","Wakad, Pune","₹1,400 for two",4.3 km
+Cafe Cheesy Dough,3.9,"Pizza, Pasta, Sandwich, Fast Food, Street Food, Korean, Shake, Beverages","Aundh, Pune",₹400 for two,2.4 km
+Carretera,3.8,"North Indian, Chinese, Kebab, Seafood, Mexican, Fast Food, Desserts, Sichuan","Baner, Pune","₹1,000 for two",1.1 km
+RollEatUp Cafe,4.1,Rolls,"Wakad, Pune",₹250 for two,4.2 km
+Ramyun House,-,Korean,"Aundh, Pune",₹800 for two,2.4 km
+Boulevard - The Orchid Hotel,4.0,"North Indian, Chinese, Continental, Italian, Salad","The Orchid Hotel, Balewadi, Pune","₹2,500 for two",2.1 km
+Rolling In Dough,3.9,"Bakery, Desserts, Beverages, Cafe, Sandwich","Pashan, Pune",₹400 for two,1.6 km
+Log House Restaurant,4.2,"North Indian, Mughlai, Biryani, Chinese, Fast Food, Desserts, Beverages","Baner, Pune","₹1,000 for two",1.7 km
+Chilimili,4.6,"Bengali, Rolls, Modern Indian","Pimple Saudagar, Pune","₹1,000 for two",4.6 km
+Mother's Kitchen,3.6,"North Indian, Chinese, Biryani, Seafood, Sichuan, Beverages","Baner, Pune",₹650 for two,1.1 km
+Fine Einstein Pizzeria,4.0,"Pizza, Fast Food","Aundh, Pune",₹500 for two,3.6 km
+Cafe Bay Leaf - Ramada Plaza,3.9,"North Indian, Pizza, Continental, Asian, Desserts, Coffee, Beverages","Balewadi, Pune","₹2,500 for two",3.1 km
+Healthy Bee,4.1,"Healthy Food, Salad, Sandwich, Wraps, Juices, Beverages","Baner, Pune",₹500 for two,295 m
+Jak Grillz,4.3,"BBQ, American, Arabian, Salad, Burger, Wraps, Grilled Chicken, Kebab","Spot 18 Mall, Pimple Saudagar, Pune",₹650 for two,3.8 km
+Raudra Bhairavi,4.5,"Maharashtrian, Seafood, Biryani","Wakad, Pune",₹700 for two,3.6 km
+Hotel Shivanjali,4.2,"North Indian, Chinese, Mexican, Seafood, Continental, Fast Food, Desserts, Beverages","Pashan, Pune","₹1,700 for two",2.2 km
+Global Chaska,4.0,"North Indian, Chinese, Bihari, Mughlai, Fast Food, Desserts","Balewadi, Pune",₹500 for two,1.4 km
+Khandeshi Darbar,3.2,"North Indian, Maharashtrian, Mughlai","Baner, Pune",₹550 for two,573 m
+Wah Bihari,4.2,"Bihari, North Indian","Wakad, Pune",₹350 for two,4.9 km
+McDonald's,3.6,"Burger, Fast Food, Desserts, Wraps","Balewadi High Street, Baner, Pune",₹400 for two,1.3 km
+Ichiraku's,3.2,"Vietnamese, Fast Food, Beverages","Bavdhan, Pune",₹650 for two,4.7 km
+Ashapuri Dining Hall,3.9,"Rajasthani, North Indian, Chinese, Beverages","Aundh, Pune",₹400 for two,3.2 km
+We Idliwale Mini,3.3,South Indian,"Baner, Pune",₹300 for two,1.1 km
+Relax Pure Veg,3.9,"Maharashtrian, North Indian, Kebab, Pizza, Fast Food, Street Food, Chinese, Beverages","Bavdhan, Pune",₹400 for two,4.9 km
+Saffron The Exotic Retreat,3.9,"North Indian, Mughlai, Kebab, Biryani, Chinese, Desserts","Wakad, Pune","₹1,000 for two",4.9 km
+The Chinese Hub,3.6,"Chinese, Sichuan, Oriental, Seafood","Mahalunge, Pune",₹500 for two,1.4 km
+Omaha Veg,4.3,"North Indian, South Indian, Fast Food, Street Food, Desserts, Beverages, Shake","Pimple Nilakh, Pune",₹350 for two,3.2 km
+RushHrs,3.8,"Burger, American, Wraps, Fast Food","Baner, Pune",₹400 for two,546 m
+Spice Roots,4.1,"North Indian, Mughlai, Italian, Biryani, Chinese, Seafood, Desserts, Beverages","Bavdhan, Pune",₹950 for two,4.3 km
+The Waffle Co.,3.9,"Waffle, Pancake, Desserts, Beverages","Wakad, Pune",₹250 for two,4.8 km
+GK Pooriwala,4.2,"North Indian, Maharashtrian, Fast Food, Pizza, Beverages","Baner, Pune",₹300 for two,723 m
+Bestow Bar & Kitchen,4.2,"North Indian, Chinese, Asian, Continental, Fast Food, Burmese, Bar Food, Desserts","Aundh, Pune",₹800 for two,2 km
+GaramTawa Bistro & Herbal Cafe,4.1,"Cafe, Fast Food, Beverages, Continental, Desserts, Coffee, Pizza","Balewadi, Pune",₹550 for two,2.2 km
+Wadeshwar Bhuvan,3.6,"South Indian, Fast Food, Beverages","Westend Mall, Aundh, Pune",₹350 for two,2.9 km
+Spring Onion,4.3,"Chinese, Asian, Japanese, Seafood","Baner, Pune","₹1,000 for two",480 m
+Bell Pepper,-,"Asian, Chinese, Seafood, Desserts, Oriental","Wakad, Pune",₹650 for two,3.8 km
+Costa Coffee,3.3,"Cafe, Coffee, Beverages, Bakery, Desserts","Phoenix Mall of the Millennium, Pune",₹400 for two,4.9 km
+Bombay Chaap Corner,3.9,"North Indian, Rolls, Momos","Wakad, Pune",₹400 for two,4.2 km
+Anna's Coffee House,3.8,"South Indian, Pizza, Street Food, Sandwich, Fast Food, Shake, Beverages","Baner, Pune",₹200 for two,1.4 km
+Kibbeh,3.9,"Kebab, Rolls, Shawarma, Grilled Chicken, Arabian","Aundh, Pune",₹300 for two,3.4 km
+Hotel Chaitanya,3.2,"North Indian, Maharashtrian, Chinese, Biryani","Hinjawadi, Pune",₹400 for two,4.9 km
+Heritage Kitchen & Co,3.9,"North Indian, Chinese, Pizza, Burger, Fast Food, Continental, Tea, Beverages","Baner, Pune","₹1,200 for two",606 m
+Chai Tradition Cafe,-,"Pizza, Sandwich, Pasta, Burger, Shake, Tea, Coffee, Beverages","Wakad, Pune",₹200 for two,4.7 km
+The Blue Wave,New,"North Indian, Chinese","Baner, Pune","₹1,000 for two",1.5 km
+Yin Yang,4.1,"Asian, Thai, Sushi, Lebanese, Seafood, North Indian, Biryani, Desserts","Wakad, Pune","₹1,200 for two",3.9 km
+Brew & Bakes,3.7,"Cafe, Coffee, Beverages, Sandwich, Continental, Italian, Steak, Bakery","Pimple Saudagar, Pune",₹900 for two,4.2 km
+Baker's Basket,3.4,"Bakery, Desserts, Sandwich, Fast Food","Aundh, Pune",₹450 for two,3.6 km
+"Frozen Bottle - Milkshakes, Desserts And Ice Cream",3.5,"Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food","Baner, Pune",₹300 for two,1.3 km
+The Graand Purohit,New,"North Indian, South Indian, Rajasthani","Wakad, Pune","₹1,000 for two",4.5 km
+Hotel Madhuban Garden Resto & Bar,4.1,"North Indian, Chinese, Mughlai, Biryani, Seafood, Sichuan, Beverages","Wakad, Pune","₹1,100 for two",4.6 km
+P K Biryani House,2.8,"Biryani, North Indian, Mughlai, Seafood","Baner, Pune",₹400 for two,1.4 km
+Tirumala Ahar Bhuvan,-,South Indian,"Bavdhan, Pune",₹250 for two,4.9 km
+Biryani Gowda,4.3,"Biryani, South Indian","Wakad, Pune",₹500 for two,3.7 km
+Alternate Reality Cafe,-,"Cafe, Coffee, Beverages","Pimple Saudagar, Pune",₹350 for two,3.8 km
+Fluffy Egg,3.0,"Cafe, Sandwich, Wraps, Burger, Biryani, Beverages","Pimple Saudagar, Pune",₹400 for two,4.7 km
+Dossai Express,-,South Indian,"Baner, Pune",₹600 for two,1.4 km
+Take A Wok,4.3,"Thai, Indonesian, Asian, Street Food, Sichuan","Aundh, Pune","₹1,000 for two",2.7 km
+Urban Pantry,3.9,"Continental, Pizza, Sandwich, Shawarma, Desserts, Shake, Beverages","Pimple Gurav, Pune","₹1,000 for two",4.6 km
+Ganesh Bhel,4.0,"Street Food, Fast Food, South Indian","Aundh, Pune",₹200 for two,3 km
+Swami's Satvik,3.9,"Maharashtrian, North Indian","Wakad, Pune",₹300 for two,4.7 km
+D Palace,4.1,"North Indian, Mughlai, Seafood, Chinese, Continental, Biryani, Desserts, Beverages","Bavdhan, Pune","₹1,000 for two",4.7 km
+Real South,3.8,"South Indian, Beverages","Wakad, Pune",₹300 for two,4.6 km
+Goodluck Cafe,3.0,"Street Food, Rolls, Fast Food","Bavdhan, Pune",₹500 for two,4.8 km
+Dadu's Sweet Emporio,4.1,"Mithai, Street Food, North Indian, Fast Food, Desserts, Beverages","Baner, Pune",₹300 for two,2.7 km
+Burger King,3.5,"Burger, Fast Food, Beverages","Hinjawadi, Pune",₹350 for two,4.7 km
+KFC,2.8,"Burger, Rolls, Fast Food","Baner, Pune",₹400 for two,738 m
+Radha Pure Veg,3.8,"Chinese, South Indian, North Indian, Street Food, Fast Food, Kebab, Ice Cream, Beverages","Wakad, Pune","₹1,200 for two",4.1 km
+Konkan Pearl,3.9,"Maharashtrian, Seafood, Biryani, Kebab, Chinese, Mughlai","Baner, Pune","₹1,000 for two",1 km
+Pokket Cafe,3.5,"Cafe, Beverages, Sandwich, Burger, Fast Food, Desserts","Pimple Gurav, Pune",₹600 for two,4.4 km
+Legally 21 The Resto Lounge,4.0,"North Indian, Chinese, Pizza, Pasta","Wakad, Pune","₹1,400 for two",4.9 km
+J's Mozzarlic Cafe,4.0,"Pasta, Pizza, Cafe, Sandwich, Burger, Fast Food, Shake, Beverages","Pimple Saudagar, Pune",₹600 for two,4.5 km
+Cafe 24,3.5,"Burger, Sandwich, Momos, Street Food, Coffee, Tea, Beverages","Balewadi, Pune",₹300 for two,1.6 km
+Curry Nation,4.0,"North Indian, Chinese, Sichuan, Kebab, Mughlai, Biryani, Seafood, Beverages","Pimple Saudagar, Pune",₹500 for two,4.8 km
+Alice In Gelato Land,3.0,"Desserts, Coffee, Ice Cream, Shake","Pimple Nilakh, Pune",₹300 for two,3.6 km
+Gogo Momo,-,"Momos, Fast Food, Street Food","Hinjawadi, Pune",₹200 for two,4.9 km
+Burgzz & Friezz,-,"Burger, Fast Food","Pimple Gurav, Pune",₹300 for two,4.8 km
+Cakeman,3.9,"Bakery, Desserts","Balewadi, Pune",₹400 for two,1.6 km
+Thorat's Baarbeque Misal,3.8,Street Food,"Baner, Pune",₹250 for two,1.1 km
+The Chow Republic,New,"Chinese, Thai","Wakad, Pune",₹550 for two,4.1 km
+Rajwadi Gaurav,3.3,"Rajasthani, North Indian, Chinese","Wakad, Pune",₹400 for two,4.9 km
+Cafe Meraki,4.2,"Sandwich, Burger, Pizza, Fast Food, Wraps, Pasta, Beverages","Pimple Gurav, Pune",₹600 for two,4.4 km
+Giridhar,3.7,"North Indian, South Indian, Chinese, Sandwich, Fast Food, Beverages","Baner, Pune",₹500 for two,1.7 km
+Origin Bistro,4.3,"Continental, Italian, European, Beverages","Pashan, Pune","₹1,400 for two",1.8 km
+Desi Dera,-,Biryani,"Baner, Pune",₹300 for two,422 m
+Kannu Ki Chai,3.2,"Tea, Coffee, Beverages, Fast Food","Aundh, Pune",₹350 for two,2.8 km
+Vrindavan Pure Veg & Fast Food,3.6,"Fast Food, North Indian, South Indian, Sandwich, Street Food, Beverages","Sus, Pune",₹250 for two,3.2 km
+SD Cafe,3.8,"Fast Food, Beverages, Pizza, Desserts","Pashan, Pune",₹200 for two,1.8 km
+Egg World,3.9,"North Indian, Street Food","Hinjawadi, Pune",₹300 for two,4.7 km
+Juice Destination,3.8,"North Indian, Sandwich, Street Food, Juices, Beverages, Shake","Aundh, Pune",₹400 for two,3 km
+Dragon,3.1,"Chinese, Seafood, Sichuan","Aundh, Pune",₹500 for two,2.5 km
+Sandwich Express,3.1,"Sandwich, Fast Food, Shake, Beverages","Pimple Saudagar, Pune",₹200 for two,4 km
+Hotel Shree Vinayaka Pure Veg,3.9,"South Indian, Chinese, North Indian, Sichuan","Pimple Gurav, Pune",₹400 for two,4.4 km
+Dakkhan Curry House,3.7,"Maharashtrian, North Indian, Malwani, Seafood","Pashan, Pune","₹1,000 for two",1.7 km
+Chinjabi,3.7,"North Indian, Kebab, Seafood, Chinese, Thai, Biryani, Desserts, Beverages","Bavdhan, Pune","₹1,400 for two",4.9 km
+Spiceflix Restaurant,3.9,"North Indian, Chinese, South Indian, Biryani, Fast Food, Sandwich, Juices, Beverages","Baner, Pune",₹500 for two,854 m
+The Pizza Box,3.7,"Pizza, Fast Food","Bavdhan, Pune",₹300 for two,4.7 km
+UFO Fries & Corn,3.8,"Fast Food, Burger, Pizza, Salad, Wraps, Shake, Beverages, Waffle","Aundh, Pune",₹500 for two,2.7 km
+The Magic Franky,3.8,"Rolls, Pizza, Burger, Sandwich, Fast Food, Beverages","Wakad, Pune",₹300 for two,4.1 km
+Gayatri Bhel,3.7,"North Indian, Street Food, Fast Food, Chinese","Pimple Gurav, Pune",₹300 for two,4.8 km
+Indorilaal,3.3,Street Food,"Baner, Pune",₹100 for two,740 m
+Sara Snacks,-,Street Food,"Pimple Gurav, Pune",₹200 for two,4.3 km
+Tandoor Corner,-,"North Indian, Biryani","Pashan, Pune",₹450 for two,1.8 km
+Myfroyoland Premium Frozen Yoghurt,3.9,"Ice Cream, Desserts, Frozen Yogurt","Balewadi High Street, Baner, Pune",₹400 for two,894 m
+Sea Spices Family Restro & Bar,3.9,"Seafood, Chinese, Kebab, South Indian, Desserts, Biryani, Beverages","Pimple Saudagar, Pune","₹1,000 for two",4.4 km
+Flute,4.0,"Chinese, Continental, North Indian, Sichuan","Wakad, Pune",₹850 for two,4.8 km
+Cafe Creamy Nuts,4.0,"Sandwich, Burger, Pizza, Fast Food, Street Food, Desserts, Coffee, Beverages","Pimple Nilakh, Pune",₹300 for two,3.2 km
+The Belgian Waffle Co.,3.6,"Waffle, Pancake, Desserts, Ice Cream, Beverages","Pimple Saudagar, Pune",₹400 for two,4.4 km
+Taaareef,4.2,"North Indian, Mughlai, Seafood, Biryani, Desserts","Aundh, Pune","₹1,400 for two",3.2 km
+Falooda Junction,3.6,"Ice Cream, Desserts","Baner, Pune",₹200 for two,2.5 km
+Super Samosas,3.9,Street Food,"Hinjawadi, Pune",₹200 for two,4.4 km
+Hotel Akshat,3.1,"Chinese, North Indian, Biryani, Sandwich, Kebab, Street Food, Juices, Beverages","Wakad, Pune",₹700 for two,3.2 km
+Momos Junction,3.9,"Momos, Chinese","Wakad, Pune",₹300 for two,4.2 km
+Curry Culture,4.2,North Indian,"Pashan, Pune",₹200 for two,2.4 km
+Mario Donuts & Waffles,3.4,"Waffle, Pancake, Desserts","Bavdhan, Pune",₹300 for two,5.1 km
+Taste Of Continents,3.7,"North Indian, Biryani","Aundh, Pune",₹500 for two,2.7 km
+Chocolate Biclate,3.5,"Bakery, Desserts","Pimple Saudagar, Pune",₹300 for two,4 km
+Nectar & Nature,3.5,"Juices, Shake, Beverages, Healthy Food, Sandwich, Pizza","Baner, Pune",₹400 for two,825 m
+Taste Of Malvan,3.1,"Seafood, North Indian","Hinjawadi, Pune",₹900 for two,4.7 km
+The Cafe Connection,3.7,"Pizza, Burger, Rolls, Sandwich, Fast Food, Street Food, Desserts, Coffee","Pimple Nilakh, Pune",₹300 for two,3.2 km
+Cafe Eatitude,3.5,"Sandwich, Pizza, Fast Food, Beverages, Shake","Balewadi, Pune",₹300 for two,2.1 km
+Bombay Chaap Corner,3.2,"North Indian, Rolls","Pimple Saudagar, Pune",₹450 for two,4.7 km
+Varsa,3.9,Maharashtrian,"Pashan, Pune","₹1,000 for two",1.8 km
+Lazzetti,3.6,"Shawarma, Kebab, Momos, Chinese, Fast Food","Wakad, Pune",₹400 for two,4.2 km
+Oliva Veg,3.9,"North Indian, Italian, Chinese","Bavdhan, Pune","₹1,300 for two",4.8 km
+Masters Biryani N Grill,2.9,"Biryani, North Indian, Desserts","Bavdhan, Pune",₹700 for two,4.1 km
+Cafe Old Skool,4.1,"Coffee, Fast Food, Sandwich, Beverages","Aundh, Pune",₹600 for two,3.1 km
+Hotel Mahadev,2.9,"North Indian, Chinese, Mughlai, Maharashtrian, Kebab, Seafood","Hinjawadi, Pune",₹500 for two,5 km
+Amrita Pure Veg,3.7,"North Indian, Fast Food, Chinese, South Indian, Desserts, Beverages","Baner, Pune","₹1,100 for two",620 m
+Vardayini Pure Veg,3.8,"South Indian, North Indian, Kebab, Italian, Chinese, Oriental, Street Food, Desserts","Bavdhan, Pune","₹1,000 for two",4.5 km
+Saffron Multi-Cuisine & Sea Food Restaurant,4.3,"Chinese, North Indian, Kebab, Seafood, Desserts, Beverages","Pashan, Pune","₹1,200 for two",2.1 km
+Shree Ambika,2.8,"North Indian, Chinese, Biryani, Mughlai, Street Food, Ice Cream","Baner, Pune",₹550 for two,791 m
+Hotel Jagdamb,3.9,"North Indian, Maharashtrian, Biryani","Wakad, Pune",₹500 for two,4.5 km
+Burger Singh - Big Punjabi Burgers,-,"Burger, Momos, Fast Food","Baner, Pune",₹300 for two,931 m
+KNS,3.7,"Fast Food, Sandwich, Burger, Pizza, Beverages","Pimple Saudagar, Pune",₹300 for two,4.1 km
